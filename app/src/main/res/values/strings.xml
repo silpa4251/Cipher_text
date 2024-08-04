@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CipherText</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_encrypt_decrypt">Encrypt/Decrypt</string>
+    <string name="menu_me">Me</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scan_qr_code">Scan QR code</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="create_keypair">Create Keypair</string>
+    <string name="to">To</string>
+    <string name="paste_or_type_your_message">Paste or type your message</string>
+    <string name="select_recipient">Select recipient</string>
+    <string name="type_your_message_to_decrypt">Type your message to decrypt</string>
+    <string name="qr_code_image">QR Code Image</string>
+</resources>
